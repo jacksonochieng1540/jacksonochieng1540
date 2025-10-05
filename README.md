@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jackson Ochieng
+# 👋 Hi, I’m Jackson 
 
 💻 Software Engineer | ⚡ Backend Developer | 🌍 Currently Based in Kiambu, Kenya  
 
