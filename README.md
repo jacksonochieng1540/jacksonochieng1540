@@ -14,7 +14,7 @@ I love building **scalable backend systems** with Django, REST APIs, and modern 
 - 🌱 Currently working on:  
   - 🏥 Hospital Management API  
   - 🚌 Matatu Booking & Scheduling System  
-  - 📦 Grocery Checkout & Inventory Tracker  
+  - Smart Attendance Management system with qr and finger print for authentication 
 
 ---
 
