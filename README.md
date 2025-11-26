@@ -1,19 +1,19 @@
 # 👋 Hi, I’m Jackson 
 
-💻 Software Engineer | ⚡ Backend Developer | 🌍 Currently Based in Kiambu, Kenya  
+💻 Software Engineer | ⚡ Backend Developer | 🌍 Currently Based in Nairobi, Kenya  
 
-I love building **scalable backend systems** with Django, REST APIs, and modern DevOps practices. Passionate about creating impactful solutions in **healthcare, education, and transport tech** 🚀.  
+I love building **scalable backend systems** with Django, REST APIs, and modern DevOps practices. Passionate about creating impactful solutions in **healthcare, education, and transport tech**  
 
 ---
 
-## 🚀 About Me
-- 🎓 5th Year Telecommunication and Information Engineering student from **JKUAT**  
-- 🔐 Interested in **Django REST Framework**, **APIs**, and **system design**  
-- 🐳 Learning **Docker, Nginx, and CI/CD pipelines**  
-- 📊 Exploring **data science & signal processing**  
-- 🌱 Currently working on:  
-  - 🏥 Hospital Management API  
-  - 🚌 Matatu Booking & Scheduling System  
+## About Me
+- 5th Year Telecommunication and Information Engineering student from **JKUAT**  
+- Interested in **Django REST Framework**, **APIs**, and **system design**  
+- Learning **Docker, Nginx, and CI/CD pipelines**  
+- Exploring **data science & signal processing**  
+- Currently working on:  
+  - Hospital Management API  
+  - Matatu Booking & Scheduling System  
   - Smart Attendance Management system with qr and finger print for authentication 
 
 ---
@@ -40,6 +40,5 @@ I love building **scalable backend systems** with Django, REST APIs, and modern 
  
 
 ---
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+ 
 
