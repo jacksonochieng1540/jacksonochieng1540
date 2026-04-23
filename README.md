@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Jackson 
+#  Hi, I’m Jackson 
 
-💻 Software Engineer | ⚡ Backend Developer | 🌍 Currently Based in Nairobi, Kenya  
+Software Engineer | Backend Developer | Currently Based in Nairobi, Kenya  
 
 I love building **scalable backend systems** with Django, REST APIs, and modern DevOps practices. Passionate about creating impactful solutions in **healthcare, education, and transport tech**  
 
@@ -18,7 +18,7 @@ I love building **scalable backend systems** with Django, REST APIs, and modern 
 
 ---
 
-## 🛠️ Tech Stack     
+##  Tech Stack     
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
@@ -32,7 +32,7 @@ I love building **scalable backend systems** with Django, REST APIs, and modern 
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacksonochieng1540@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackayaga)  
