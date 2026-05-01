@@ -10,11 +10,12 @@ I love building **scalable backend systems** with Django, REST APIs, and modern 
 - 5th Year Telecommunication and Information Engineering student from **JKUAT**  
 - Interested in **Django REST Framework**, **APIs**, and **system design**  
 - Learning **Docker, Nginx, and CI/CD pipelines**  
-- Exploring **data science & signal processing**  
+- Exploring **Data Science & Digital Image Processing**  
 - Currently working on:  
   - Hospital Management API  
   - Matatu Booking & Scheduling System  
-  - Smart Attendance Management system with qr and finger print for authentication 
+  - Smart Attendance Management system with qr and finger print for authentication
+  - Smart Vehicle Tracking and anti-theft system using Facial recognition,GPS and GSM(**Final Year Project**)
 
 ---
 
