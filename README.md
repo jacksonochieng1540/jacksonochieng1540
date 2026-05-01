@@ -2,7 +2,7 @@
 
 Software Engineer | Backend Developer | Currently Based in Nairobi, Kenya  
 
-I love building **scalable backend systems** with Django, REST APIs, and modern DevOps practices. Passionate about creating impactful solutions in **healthcare, education, and transport tech**  
+I love building **scalable backend systems** with Django, REST APIs, and modern DevOps practices. Passionate about creating impactful solutions in **healthcare, education and transport tech**  
 
 --- 
 
