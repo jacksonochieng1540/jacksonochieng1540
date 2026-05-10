@@ -15,7 +15,7 @@ I love building **scalable backend systems** with Django, REST APIs and modern D
   - Hospital Management API  
   - Matatu Booking & Scheduling System  
   - Smart Attendance Management system with qr and finger print for authentication
-  - Smart Vehicle Tracking and anti-theft system using Facial recognition,GPS and GSM(**Final Year Project**)
+  - Smart Vehicle Tracking and anti-theft system using Facial recognition,GPS and GSM(** Telecommunication and Information Engineering Final Year Project**)
 
 ---
 
