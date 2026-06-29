@@ -7,7 +7,7 @@ I love building **scalable backend systems** with Django, REST APIs and modern D
 --- 
 
 ## About Me
-- 5th Year Telecommunication and Information Engineering student from **JKUAT**  
+-Telecommunication and Information Engineer from **JKUAT**  
 - Interested in **Django REST Framework**, **APIs**, and **system design**  
 - Learning **Docker, Nginx, and CI/CD pipelines**  
 - Exploring **Data Science & Digital Image Processing**  
